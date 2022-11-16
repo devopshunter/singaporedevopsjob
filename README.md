@@ -16,7 +16,7 @@ THIS ROLE NEEDS YOU TO:
 
 HOW TO ACE THIS??
 •	At least 3 years of experience as a DevOps engineer 
-•	Experience adhering to best practices of standardisation and automation.
+•	best practices of standardisation and automation.
 •	Experience in software development in languages such as; Go, Node.JS, Python or Ruby
 •	Infrastructure experience in Linux system administration, networking and database technologies is advantageous
 •	DevOps and containerisation tools experience on Docker or Kubernetes
@@ -27,4 +27,5 @@ WHAT CHU GET???
 •	Opportunity for growth in leading infotech company
 •	Contribution in transforming systems through innovation
 
-PRIVATE MESSAGE ME IF INTERESTED
+Send latest CV to lijie.ong@hays.com.sg if interested.
+
